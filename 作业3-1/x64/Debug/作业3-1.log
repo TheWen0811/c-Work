@@ -1,0 +1,5 @@
+﻿  作业3-1.cpp
+D:\Users\DELL\source\repos\作业3-1\作业3-1.cpp(8,10): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\Users\DELL\source\repos\作业3-1\作业3-1.cpp(15,10): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\Users\DELL\source\repos\作业3-1\作业3-1.cpp(20): warning C4715: “zdgys”: 不是所有的控件路径都返回值
+  作业3-1.vcxproj -> D:\Users\DELL\source\repos\作业3-1\x64\Debug\作业3-1.exe

@@ -1,0 +1,4 @@
+﻿  实验二修改.cpp
+D:\Users\DELL\source\repos\实验二修改\实验二修改.cpp(13,17): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\Users\DELL\source\repos\实验二修改\实验二修改.cpp(19,18): warning C4804: “<”: 在操作中使用类型“bool”不安全
+  实验二修改.vcxproj -> D:\Users\DELL\source\repos\实验二修改\x64\Debug\实验二修改.exe

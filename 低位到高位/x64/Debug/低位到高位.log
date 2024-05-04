@@ -1,0 +1,4 @@
+﻿  低位到高位.cpp
+D:\Users\DELL\source\repos\低位到高位\低位到高位.cpp(8,8): error C2131: 表达式的计算结果不是常数
+D:\Users\DELL\source\repos\低位到高位\低位到高位.cpp(8,8): message : 因读取超过生命周期的变量而失败
+D:\Users\DELL\source\repos\低位到高位\低位到高位.cpp(8,8): message : 请参见“p”的用法
